@@ -43,6 +43,7 @@ Creating authentic Italian food to be sold as fresh meals.
 ## VOLUNTEER EXPERIENCE
 #### Volunteer, habitat for humanity (2018)
 *	Performed landscaping duties for homes that were built for those in need.
+
 ---
 ## EXTRACURRICULAR
 #### WICS, Member
