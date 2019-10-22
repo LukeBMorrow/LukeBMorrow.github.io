@@ -22,8 +22,8 @@ _morrowl4@myumanitoba.ca_
 
 ## TECHNICAL SKILLS
 
-|**Experienced with**|: Java, Object Orientated Programming, HTML, CSS, IntelliJ, Windows  
-|**Familiar with**|:JavaScript, Node.js, Express, MongoDB, Ruby, C, C++, Assembly, SQL, Bootstrap, jQuery, RubyMine, Eclipse, GoormIDE, Linux, VSCode git, Github    
+|**Experienced with**|Java, Object Orientated Programming, HTML, CSS, IntelliJ, Windows  
+|**Familiar with**|JavaScript, Node.js, Express, MongoDB, Ruby, C, C++, Assembly, SQL, Bootstrap, jQuery, RubyMine, Eclipse, GoormIDE, Linux, VSCode git, Github    
 
 
 ## WORK EXPERIENCE
@@ -43,7 +43,6 @@ Creating authentic Italian food to be sold as fresh meals.
 *	Participating on the web development team, fixing bugs and developing the website using git and Github.
 
 ## PERSONAL PROJECT
-##### [YELP CAMP](HTTPS://GITHUB.COM/LUKEBMORROW/YELPCAMP)
-##### Personal Project, (2019 July)
+##### [YELP CAMP](HTTPS://GITHUB.COM/LUKEBMORROW/YELPCAMP) Personal Project, (2019 July)
 *	Built a mock website using front and back-end technologies, such as: CSS, HTML, JavaScript, Node.js, NPM, Express.js, and MongoDB.
 *	Learned the basics of RESTful routing, web frameworks, middleware in performing actions such as authorization, and relational databases to obtain data persistence.
