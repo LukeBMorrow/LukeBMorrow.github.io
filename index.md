@@ -21,10 +21,9 @@ _morrowl4@myumanitoba.ca_
 ##### Udemy, Online Learning Platform (August 2019 - present)
 
 ## TECHNICAL SKILLS
-|      |           |
-| ------------- |:-------------:|
-|**Experienced with**| Java, Object Orientated Programming, HTML, CSS, IntelliJ, Windows|
-|**Familiar with**  |JavaScript, Node.js, Express, MongoDB, Ruby, C, C++, Assembly, SQL, Bootstrap, jQuery, RubyMine, Eclipse, GoormIDE, Linux, VSCode git, Github    |
+
+|**Experienced with**|: Java, Object Orientated Programming, HTML, CSS, IntelliJ, Windows  
+|**Familiar with**|:JavaScript, Node.js, Express, MongoDB, Ruby, C, C++, Assembly, SQL, Bootstrap, jQuery, RubyMine, Eclipse, GoormIDE, Linux, VSCode git, Github    
 
 
 ## WORK EXPERIENCE
