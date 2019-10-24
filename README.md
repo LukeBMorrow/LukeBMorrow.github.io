@@ -25,10 +25,10 @@ In this section, I cannot write your resume, but I can give you general guidelin
 2. Write your resume in _index.md_.
   >**Note**: You can copy an existing resume if you have one.  
 
-  >**Learn Markdown**:
-      - [Markdown Tutorial](https://www.markdowntutorial.com/) will walk you through each markdown tag with examples and practice problems.  
-      - [Daring Fireball](https://daringfireball.net/projects/markdown/basics) is made by the creator of markdown, and goes into depth on the conversion that happens between markdown and HTML.  
-      - [Awesome Markdown](https://github.com/mundimark/awesome-markdown) is a compilation of resources for Markdown, if you want more markdown goodies, such as: "libraries, services, editors, tools, cheatsheets, etc.".
+  >**Learn Markdown**:  
+      * [Markdown Tutorial](https://www.markdowntutorial.com/) will walk you through each markdown tag with examples and practice problems.  
+      * [Daring Fireball](https://daringfireball.net/projects/markdown/basics) is made by the creator of markdown, and goes into depth on the conversion that happens between markdown and HTML.  
+      * [Awesome Markdown](https://github.com/mundimark/awesome-markdown) is a compilation of resources for Markdown, if you want more markdown goodies, such as: "libraries, services, editors, tools, cheatsheets, etc.".
 
 At this point, you should have a resume fully written in markdown. Now to put that resume on GitHub Pages.
 
