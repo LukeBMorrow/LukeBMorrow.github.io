@@ -53,9 +53,12 @@ Now that you have a repository with the index.md file in it, you can go to _'Use
 ## Stage 4: Styling Github Pages
 After this stage, you will have a styled resume hosted on GitHub Pages. We will be taking the Cayman style and editing it to suit our needs.  
 1. Download the [Cayman theme](https://pages-themes.github.io/cayman/).
-2. Copy your _index.md_ into a backup folder.
-3. Extract the contents of the .zip file into your _'Username'.github.io_ folder.
-4. Copy back _index.md_ into the _'Username'.github.io_ folder, replacing the extracted _index.md_.
+2. Extract the contents of the .zip file into a folder.
+3. Copy your _index.md_ into the _'Username'.github.io_ folder, replacing the extracted _index.md_.
+4. Copy all files in the extracted folder back to the _'Username'.github.io_ folder.
+![A walkthrough of steps 1 to 4](imgs/Step4.gif)
+
+##### Optional
 5. Go into the _layouts_ folder and edit _default.html_ to remove the blocks:
 >**Note**: You can either delete or comment this code out.
 
