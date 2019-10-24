@@ -26,9 +26,9 @@ In this section, I cannot write your resume, but I can give you general guidelin
   >**Note**: You can copy an existing resume if you have one.  
 
   >**Learn Markdown**:
-    * [Markdown Tutorial](https://www.markdowntutorial.com/) will walk you through each markdown tag with examples and practice problems.
-    * [Daring Fireball](https://daringfireball.net/projects/markdown/basics) is made by the creator of markdown, and goes into depth on the conversion that happens between markdown and HTML.
-    * [Awesome Markdown](https://github.com/mundimark/awesome-markdown) is a compilation of resources for Markdown, if you want more markdown goodies, such as: "libraries, services, editors, tools, cheatsheets, etc.".
+      * [Markdown Tutorial](https://www.markdowntutorial.com/) will walk you through each markdown tag with examples and practice problems.
+      * [Daring Fireball](https://daringfireball.net/projects/markdown/basics) is made by the creator of markdown, and goes into depth on the conversion that happens between markdown and HTML.
+      * [Awesome Markdown](https://github.com/mundimark/awesome-markdown) is a compilation of resources for Markdown, if you want more markdown goodies, such as: "libraries, services, editors, tools, cheatsheets, etc.".
 
 At this point, you should have a resume fully written in markdown. Now to put that resume on GitHub Pages.
 
@@ -82,7 +82,7 @@ Congratulation! you now have a styled and hosted resume on GitHub Pages. Go brag
 
 ## FAQ
   Q: Do I have to use Atom?   
-  A: No, any code editor will work. I chose Atom for its markdown previewer.
+  A: No, any code editor will work. I chose Atom for its markdown previewer and Git integration.
 
   Q: Can I write my resume in HTML?  
   A: Yes, Simply name the _index.md_ file _index.html_ instead.
