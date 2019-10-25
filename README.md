@@ -1,5 +1,5 @@
 # Hosting a Markdown Resume on GitHub Pages
-In this tutorial, we will make a resume with markdown and host this markdown resume on GitHub pages. This may sound like a lot of work, but markdown can be learned in under an hour, and we will only need a hand-full of tags to make a resume. In this tutorial, these will be the assumptions:  
+This tutorial will guide the reader through writing a resume with markdown and hosting this markdown resume on GitHub pages. Markdown can be learned in under an hour. In this tutorial, these will be the assumptions:  
 
 | Assuming you have an beginner-intermediate knowledge of (Prerequisites) | Assuming you have no knowledge of |  
 |---|---|  
@@ -14,33 +14,35 @@ Now we are going to install atom for writing our markdown resume.
 2. Download the installer for your computer.
 3. Run Setup.  
 
-Welcome to Atom!
-Now that you have Atom installed you can start writing your markdown resume.
+Welcome to Atom!  
+
+Now that Atom has been installed, the markdown resume can be started.
 
 ## Stage 2: Writing Markdown
-In this section, I cannot write your resume, but I can give you general guidelines and a markdown guide.
+Writing in markdown is fast to learn. With markdown, a simple resume is easy to create.  
+What follows is the name specification of the resume file and resources to learn markdown.
 1. Open a file in Atom and save it as _index.md_
   >**Note**: Files name must be _index.md_ for a later step.
 
-2. Write your resume in _index.md_.
-  >**Note**: You can copy an existing resume if you have one.  
+2. Write the resume in _index.md_.
+  >**Note**: An existing resume can be copied instead.  
 
   >**Learn Markdown**:  
   >    * [Markdown Tutorial](https://www.markdowntutorial.com/) will walk you through each markdown tag with examples and practice problems.  
   >    * [Daring Fireball](https://daringfireball.net/projects/markdown/basics) is made by the creator of markdown, and goes into depth on the conversion that happens between markdown and HTML.  
   >    * [Awesome Markdown](https://github.com/mundimark/awesome-markdown) is a compilation of resources for Markdown, if you want more markdown goodies, such as: "libraries, services, editors, tools, cheatsheets, etc.".
 
-At this point, you should have a resume fully written in markdown. Now to put that resume on GitHub Pages.
+At this point, the reader should have a markdown resume. Now to put that resume on GitHub Pages.
 
 ## Stage 3: Using GitHub Pages
-This stage will result in a hosted version of your resume online for free. All This will take is a git repository.
+This stage will result in a hosted version the reader's resume online(for free). All this will take is a git repository.
 1. Create a folder named: _'Username'.github.io_.
 2. Move _index.md_ into the _'Username'.github.io_ folder.
 3. Go to [GitHub](https://github.com/).
 4. Create a new repository with the name _'Username'.github.io_.
 5. Initialize the _'Username'.github.io_ folder with Git using:  
 
-```bash
+``` bash
   git init
   git remote add origin 'username'/'username'.github.io.git
   git add .
@@ -48,14 +50,14 @@ This stage will result in a hosted version of your resume online for free. All T
   git push -u origin master
 ```
 
-Now that you have a repository with the index.md file in it, you can go to _'Username'.github.io_ and see your hosted resume. It isn't pretty yet, that comes next.
+Now that the reader has a repository with the index.md file, the hosted resume can be found at the url: _'Username'.github.io_. What comes next is styling.
 
 ## Stage 4: Styling Github Pages
-After this stage, you will have a styled resume hosted on GitHub Pages. We will be taking the Cayman style and editing it to suit our needs.  
+After this stage, the hosted resume on GitHub Pages will be styled. This tutorial will be using the Cayman style and (optionally) editing the style.  
 1. Download the [Cayman theme](https://pages-themes.github.io/cayman/).
 2. Extract the contents of the .zip file into a folder.
-3. Copy your _index.md_ into the _'Username'.github.io_ folder, replacing the extracted _index.md_.
-4. Copy all files in the extracted folder back to the _'Username'.github.io_ folder.
+3. Copy your _index.md_ into the extracted folder.
+4. Copy all files from the extracted folder back to the _'Username'.github.io_ folder.
 ![A walkthrough of steps 1 to 4](imgs/Step4.gif)
 
 ##### Optional
@@ -81,7 +83,7 @@ After this stage, you will have a styled resume hosted on GitHub Pages. We will 
 5. Open the _ _config.yml_ file and change the _title_ and _description_ to something more appropriate.  
 6. Commit and push these changes.
 
-Congratulation! you now have a styled and hosted resume on GitHub Pages. Go brag to all your friends.
+At this point, the reader should have a styled and hosted copy of their resume on GitHub Pages.
 
 ## FAQ
   Q: Do I have to use Atom?   
